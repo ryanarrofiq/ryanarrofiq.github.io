@@ -1,0 +1,1 @@
+importScripts('https://cdn.mtarget.co/release/mtt-sw.js')
